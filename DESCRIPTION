@@ -1,6 +1,6 @@
 Package: scaleMultiply
 Title: Scale and Multiply Utility
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person("Xuan", "Li", email = "1208039950@qq.com", role = c("aut", "cre"))
 Description: Provides a utility function, `scale_and_multiply`, that scales a numeric vector to the range [0, 1] 

@@ -28,7 +28,7 @@ You can install the development version of scaleMultiply from [GitHub](https://g
 # install devtools if you haven't already
 install.packages("devtools")
 # use devtools to install this function packsage
-install.packages("stat545ubc-2024/scaleMultiply")
+devtools::install_github("stat545ubc-2024/scaleMultiply")
 ```
 
 ## Example
