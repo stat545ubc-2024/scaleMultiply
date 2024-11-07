@@ -1,0 +1,14 @@
+Package: scaleMultiply
+Title: Scale and Multiply Utility
+Version: 1.0.0
+Authors@R: 
+    person("Xuan", "Li", email = "1208039950@qq.com", role = c("aut", "cre"))
+Description: Provides a utility function, `scale_and_multiply`, that scales a numeric vector to the range [0, 1] 
+    and then multiplies each element by a specified multiplier. Useful for data normalization and transformation tasks.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
